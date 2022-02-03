@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/react-food-web/static/css/main.4db41038.css",
+    "main.js": "/react-food-web/static/js/main.cbe6be76.js",
+    "static/media/meals.jpg": "/react-food-web/static/media/meals.2971f633fc1382581cbf.jpg",
+    "index.html": "/react-food-web/index.html",
+    "main.4db41038.css.map": "/react-food-web/static/css/main.4db41038.css.map",
+    "main.cbe6be76.js.map": "/react-food-web/static/js/main.cbe6be76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4db41038.css",
+    "static/js/main.cbe6be76.js"
+  ]
+}
